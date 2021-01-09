@@ -17,7 +17,7 @@ Education
   *  [Elite Undergraduate Program in Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
 * Ph.D in Computational Mathematics, Peking University, China, 2019
   * Supervisor: Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/)
-  * Thesis: Rare Event Studies in Single-Cell Systems Biology ([Best Dissertation Award](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/346461.htm))
+  * Thesis: Rare Event Studies in Single-Cell Systems Biology ([Excellent Dissertation Award](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/346461.htm))
 
 Research experience
 ======
