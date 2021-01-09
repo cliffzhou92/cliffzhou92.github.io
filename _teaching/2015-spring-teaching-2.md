@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Upper Division/Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Peking University,China"
 date: 2015-01-01
-location: "City, Country"
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Mathematical Biophysics** (2016 Spring)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Course Link to Professor Hao Ge's Page (in Chinese)](http://bicmr.pku.edu.cn/~gehao/Teaching/Mathematical_Biophysics.html)
