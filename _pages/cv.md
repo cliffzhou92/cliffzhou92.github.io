@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+---
 Education
 ======
 * B.S. in Computational Mathematics, Peking University, China, 2014
-* Ph.D in Computational Mathematics, Peking University, China, 2019 (best dissertation award)
+  *  [Elite Undergraduate Program in Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
+* Ph.D in Computational Mathematics, Peking University, China, 2019
+  * Supervisor: Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/)
+  * Thesis: Rare Event Studies in Single-Cell Systems Biology ([Best Dissertation Award](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/346461.htm))
 
 Research experience
 ======
@@ -23,6 +27,10 @@ Research experience
 * 2019 - 2020: Postdoctoral Scholar
     * Department of Mathematics, University of California, Irvine
     * Supervisor: Professor Qing Nie
+
+* 2018: Visiting Graduate Student
+        * Department of Mathematics, University of California, Irvine
+        * Supervisor: Professor Qing Nie
 
 * 2012 - 2019: Graduate Research Assistant
   * School of Mathematical Sciences and Center for Quantitative Biology, Peking University, China
@@ -46,11 +54,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======
