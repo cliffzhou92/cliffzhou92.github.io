@@ -1,5 +1,5 @@
 ---
-title: "Stochasticity Triggers Activation of the S-phase Checkpoint Pathway in Budding Yeast"
+title: "Inference of Intercellular Communications and Multilayer Gene-Regulations of Epithelial–Mesenchymal Transition From Single-Cell Transcriptomic Data"
 collection: publications
 permalink: /publication/frontiers-multilayer
 excerpt: 'Using single-cell transcriptomic datasets, we infer the cell–cell communications and the multilayer gene–gene regulation networks to analyze and visualize the complex cellular crosstalk and the underlying gene regulatory dynamics along epithelial-mesenchymal transitions (EMT)'
