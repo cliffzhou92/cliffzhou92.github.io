@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 Education
 ======
 * B.S. in Computational Mathematics, Peking University, China, 2014
