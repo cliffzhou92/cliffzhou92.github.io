@@ -26,12 +26,12 @@ Research experience
   * Supervisor: Professor [Qing Nie](https://faculty.sites.uci.edu/qnie/)
 
 * 2019 - 2020: Postdoctoral Scholar
-    * Department of Mathematics, University of California, Irvine
-    * Supervisor: Professor Qing Nie
+  * Department of Mathematics, University of California, Irvine
+  * Supervisor: Professor Qing Nie
 
 * 2018: Visiting Graduate Student
-        * Department of Mathematics, University of California, Irvine
-        * Supervisor: Professor Qing Nie
+  * Department of Mathematics, University of California, Irvine
+  * Supervisor: Professor Qing Nie
 
 * 2012 - 2019: Graduate Research Assistant
   * School of Mathematical Sciences and Center for Quantitative Biology, Peking University, China

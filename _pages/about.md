@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Born in Beijing, China, I lived in this city for 27 years, and obtained my B.S.(2014) and Ph.D.(2019) in Computational Mathematics from School of Mathematical Sciences, Peking University, supervised by Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/). I used to be a visiting graduate student in Mathematics Department, University of California, Irvine in 2018. Starting from 2012, I also served as the research assistant in Professor [Fangting Li's](https://www.researchgate.net/profile/Fangting_Li) lab in Center for Quantitative Biology, Peking University. My dissertation is titled "Rare Event Studies in Single-Cell Systems Biology "
+Born in Beijing, China, I lived in this city for 27 years, and obtained my B.S.(2014) and Ph.D.(2019) in Computational Mathematics from School of Mathematical Sciences, Peking University, supervised by Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/). I used to be a visiting graduate student in Mathematics Department, University of California, Irvine in 2018. Starting from 2012, I also served as the research assistant in the lab of Professor [Fangting Li](https://www.researchgate.net/profile/Fangting_Li), from Center for Quantitative Biology, Peking University. My dissertation is titled "Rare Event Studies in Single-Cell Systems Biology".
 
 After graduation, I started my postdoc at UC Irvine under the supervision of Professor [Qing Nie](https://faculty.sites.uci.edu/qnie/), and became the visiting assistant professor of mathematics since 2020.
 

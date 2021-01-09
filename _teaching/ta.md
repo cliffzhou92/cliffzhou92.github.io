@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Upper Division/Graduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ta
 venue: "Peking University,China"
-date: 2015-01-01
+date: 2016-09-01
 location: "Beijing, China"
 ---
 
