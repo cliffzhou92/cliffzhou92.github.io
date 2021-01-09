@@ -3,7 +3,7 @@ title: "Construction of the landscape for multi-stable systems: Potential landsc
 collection: publications
 permalink: /publication/jcp-landscape
 excerpt: 'From applied mathematics perspective, we investigate the theoretical relations between different proposals to construct energy landscape function for bio-chemical system .'
-date: 2016-3
+date: 2016-03-01
 venue: 'The Journal of Chemical Physics'
 paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.4943096'
 citation: 'Peijie Zhou and Tiejun Li. "Construction of the landscape for multi-stable systems: Potential landscape, quasi-potential, A-type integral and beyond." The Journal of Chemical Physics 144.9 (2016): 094109.'
