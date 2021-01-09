@@ -3,7 +3,7 @@ title: "Divergent Resistance Mechanisms to Immunotherapy Explain Responses in Di
 collection: publications
 permalink: /publication/cancers-bcc
 excerpt: 'Combining single-cell transcriptome data analysis and stochastic dynamics modeling, we understand the mechanism of different response to immunotherapy between two types of skin cancers -- melanoma and basal cell carcinoma (BCC).'
-date: 2021-10-13
+date: 2020-10-13
 venue: 'Cancers'
 paperurl: 'https://www.mdpi.com/2072-6694/12/10/2946'
 citation: 'Dollinger, Emmanuel; Bergman, Daniel; Zhou, Peijie; Atwood, Scott X.; Nie, Qing. 2020. "Divergent Resistance Mechanisms to Immunotherapy Explain Responses in Different Skin Cancers" Cancers 12, no. 10: 2946.'
