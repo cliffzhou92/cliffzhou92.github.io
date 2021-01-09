@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -60,5 +60,5 @@ Teaching
 
 Service and leadership
 ======
-* Vice President of SIAM Student Chapter, Peking University
+* Vice President of [SIAM Student Chapter](https://archive.siam.org/students/chapters/current/pek.php), Peking University
 * President of Graduate Association, School of Mathematical Sciences, Peking University
