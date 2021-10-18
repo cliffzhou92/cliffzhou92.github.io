@@ -1,5 +1,5 @@
 ---
-title: "Integrating single-cell datasets with ambiguous batch information by incorporating molecular network features"
+title: "On the Mathematics of RNA Velocity I: Theoretical Analysis."
 collection: publications
 permalink: /publication/mutrans
 excerpt: 'Deriving the analytical solution of the RNA velocity model from both deterministic and stochastic point of view; presenting the parameter inference framework based on the maximum likelihood estimate; proving the continuum limit of different downstream kernel-based methods'
