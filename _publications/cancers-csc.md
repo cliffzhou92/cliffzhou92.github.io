@@ -1,7 +1,7 @@
 ---
 title: "Single-Cell RNA-Seq Analysis Reveals the Acquisition of Cancer Stem Cell Traits and Increase of Cell–Cell Signaling during EMT Progression"
 collection: publications
-permalink: /publication/cancers-bcc
+permalink: /publication/cancers-csc
 excerpt: 'By integrating multiple analytical tools into a single computational framework, we investigated several single-cell RNA-sequencing (scRNA-seq) datasets and identified the emerging relationship between EMT, acquisition of CSC traits, and cell–cell communication.'
 date: 2021-11-16
 venue: 'Cancers'
