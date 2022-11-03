@@ -3,8 +3,8 @@ title: "spliceJAC: transition genes and state-specific gene regulation from sing
 collection: publications
 permalink: /publication/spliceJAC
 excerpt: 'Using attractor Jacobian to infer cell type stability with mRNA splicing dynamics with scRNA-seq data'
-date: 2021-9-23
-venue: 'Nature Communications'
+date: 2022-11-2
+venue: 'Molecular Systems Biology'
 paperurl: 'https://doi.org/10.15252/msb.202211176'
 citation: 'Federico Bocci, Peijie Zhou and Qing Nie. spliceJAC: transition genes and state-specific gene regulation from single-cell transcriptome data. https://www.embopress.org/doi/full/10.15252/msb.202211176'
 ---
