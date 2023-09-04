@@ -21,7 +21,10 @@ Education
 
 Research experience
 ======
-* 2020 - Present: Visiting Assistant Professor
+* 2023 - Present: Tenure-Track Assistant Professor
+  * Center for Machine Learning Research, Peking University
+
+* 2020 - 2023: Visiting Assistant Professor
   * Department of Mathematics, University of California, Irvine
   * Supervisor: Professor [Qing Nie](https://faculty.sites.uci.edu/qnie/)
 
