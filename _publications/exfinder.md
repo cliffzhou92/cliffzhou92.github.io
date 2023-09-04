@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/braca
 excerpt: 'Identifying external signals received by the cells in the single-cell transcriptomics datasets by utilizing the prior knowledge of signaling pathways.'
 date: 2023-4-7
-venue: 'Nature Genetics'
+venue: 'Nucleic Acids Research'
 paperurl: 'https://www.nature.com/articles/s41588-023-01298-x'
 citation: 'Changhan He, Peijie Zhou, and Qing Nie. "exFINDER: identify external communication signals using single-cell transcriptomics data." Nucleic Acids Research 51.10 (2023): e58-e58.'
 ---
