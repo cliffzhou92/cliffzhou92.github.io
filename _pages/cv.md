@@ -22,7 +22,7 @@ Education
 Research experience
 ======
 * 2023 - Present: Tenure-Track Assistant Professor
-  * Center for Machine Learning Research, Peking University
+  * Center for Machine Learning Research and Center for Quantitative Biology, Peking University
 
 * 2020 - 2023: Visiting Assistant Professor
   * Department of Mathematics, University of California, Irvine
