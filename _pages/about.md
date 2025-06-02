@@ -15,10 +15,10 @@ I joined Peking University as a faculty starting from July 2023. My research int
 
 Specifically, my recent research interests focus on:
 
-## AI for Biology
-- **AI-driven virtual cells**: Intelligent inference and generation of cellular dynamics based on multi-omics data
-- **Multi-omics foundation models and biomedical applications**
+- **AI for Biology**
+  - **AI-driven virtual cells**: Intelligent inference and generation of cellular dynamics based on multi-omics data
+  - **Multi-omics foundation models and biomedical applications**
 
-## Generative Models
-- **Physics-informed generative models**: Algorithmic analysis and improvements based on dynamic optimal transport, Schrödinger bridge, diffusion models, etc.
-- **Applications of generative models** in complex systems (e.g. climate change) and AI for Science
+- **Generative Models**
+  - **Physics-informed generative models**: Algorithmic analysis and improvements based on dynamic optimal transport, Schrödinger bridge, diffusion models, etc.
+  - **Applications of generative models** in complex systems (e.g. climate change) and AI for Science
