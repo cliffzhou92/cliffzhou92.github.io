@@ -16,7 +16,7 @@ Education
 * B.S. in Computational Mathematics, Peking University, China, 2014
   *  [Elite Undergraduate Program in Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
 * Ph.D in Computational Mathematics, Peking University, China, 2019
-  * Supervisor: Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/)
+  * Supervisor: Professor [Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/)
   * Thesis: Rare Event Studies in Single-Cell Systems Biology ([Excellent Dissertation Award](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/346461.htm))
 
 Research experience
@@ -40,7 +40,7 @@ Research experience
   * School of Mathematical Sciences and Center for Quantitative Biology, Peking University, China
   * Supervisor: Professor [Tiejun Li](http://dsec.pku.edu.cn/~tieli/) and [Fangting Li](https://www.researchgate.net/profile/Fangting_Li)
 
-Skills
+<!-- Skills
 ======
 * Applied Stochastic Analysis and Dynamical System Modeling (with application in Systems Biology)
 * Single-cell Data Analysis (combining machine learning and physical modeling)
@@ -50,9 +50,9 @@ Skills
   * Matlab
   * C/MPI
   * Julia
+ -->
 
-
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -63,7 +63,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Service and leadership
 ======
