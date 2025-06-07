@@ -73,8 +73,7 @@ You can also find my full publication list on my [Google Scholar](https://schola
   *bioRxiv*, 2025.02.07.637070
 
 - **Genetic Deconvolution of Embryonic and Maternal Cell-Free DNA in Spent Culture Medium of Human Preimplantation Embryos Through Deep Learning**  
-  Z. Zhang, J. Qiao, Y. Chen, P. Zhou. (2025).  
-  *bioRxiv*, 2025.01.20.633979
+  Z. Zhang, J. Qiao, Y. Chen, P. Zhou. (2025), accepted by *Advanced Science*.
 
 - **Single-Cell Transcriptomics Reveals Aberrant Skin-Resident Cell Populations and Identifies Fibroblasts as a Determinant in Rosacea**  
   M. Chen, L. Yang, P. Zhou, et al. (2024).  
