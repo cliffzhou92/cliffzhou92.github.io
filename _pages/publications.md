@@ -77,7 +77,6 @@ You can also find my full publication list on my [Google Scholar](https://schola
   *Advanced Science*, e12660.
 
 - **Uncovering minimal pathways in melanoma initiation**  
-  
   Xiao, H., Shiu, J., Chen, C. F., Wu, J., Zhou, P., Telang, S. S., ... & Ganesan, A. K. (2025).  
   *Nature Communications*, 16(1), 5369.
 
