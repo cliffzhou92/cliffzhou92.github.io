@@ -20,15 +20,15 @@ You can also find my full publication list on my [Google Scholar](https://schola
 
 - **Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge**  
   Z. Zhang, Z. Wang, Y. Sun, T. Li, P. Zhou. (2025).  
-  *arXiv:2505.11197*
+  *NeurIPS 2025*
 
 - **Variational Regularized Unbalanced Optimal Transport: Single Network, Least Action**  
   Y. Sun, Z. Zhang, Z. Wang, T. Li, P. Zhou. (2025).  
-  *arXiv:2505.11823*
+  *NeurIPS 2025*
 
 - **Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**  
   D. Wang, Y. Jiang, Z. Zhang, X. Gu, P. Zhou, J. Sun. (2025).  
-  *arXiv:2505.13413*
+  *NeurIPS 2025*
 
 - **Integrating Dynamical Systems Modeling with Spatiotemporal scRNA-seq Data Analysis**  
   Z. Zhang, Y. Sun, Q. Peng, T. Li, P. Zhou. (2025).  
@@ -73,7 +73,12 @@ You can also find my full publication list on my [Google Scholar](https://schola
   *bioRxiv*, 2025.02.07.637070
 
 - **Genetic Deconvolution of Embryonic and Maternal Cell-Free DNA in Spent Culture Medium of Human Preimplantation Embryos Through Deep Learning**  
-  Z. Zhang, J. Qiao, Y. Chen, P. Zhou. (2025), accepted by *Advanced Science*.
+  Z. Zhang, J. Qiao, Y. Chen, P. Zhou. (2025).
+  *Advanced Science*, e12660.
+
+- **Uncovering minimal pathways in melanoma initiation.**
+  Xiao, H., Shiu, J., Chen, C. F., Wu, J., Zhou, P., Telang, S. S., ... & Ganesan, A. K. (2025). 
+  *Nature Communications*, 16(1), 5369.
 
 - **Single-Cell Transcriptomics Reveals Aberrant Skin-Resident Cell Populations and Identifies Fibroblasts as a Determinant in Rosacea**  
   M. Chen, L. Yang, P. Zhou, et al. (2024).  
@@ -115,8 +120,8 @@ You can also find my full publication list on my [Google Scholar](https://schola
 ## Generative Models in AI for Science
 
 - **Using Deep Learning to Generate Key Variables in Global Climate Change Mitigation Scenarios**  
-  Li, P., Zhu, R., McJeon, H., Byers, E., Zhou, P., & Ou, Y. (Accepted).  
-  *Nature Climate Change*.
+  Li, P., Zhu, R., McJeon, H., Byers, E., Zhou, P., & Ou, Y. (2025).  
+  *Nature Climate Change*，1-9.
 
 
 
